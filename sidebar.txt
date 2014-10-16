@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anf:home|Door43 (anf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anf|d43-anf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anf/archive/master.zip|d43-anf.zip]]
+
+**Recent Changes**
+{{changes>ns = anf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anf|Ethnologue data]]
+
